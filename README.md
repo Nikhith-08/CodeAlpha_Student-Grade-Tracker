@@ -10,7 +10,6 @@ A simple Java application for teachers to manage student grades, calculate avera
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The **Student Grade Tracker** program provides teachers with an easy-to-use tool to manage student grades. Using Java's `ArrayList`, this application stores grades dynamically and allows teachers to:
