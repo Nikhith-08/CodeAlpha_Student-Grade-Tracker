@@ -60,7 +60,3 @@ Contributions are welcome! If you would like to improve this project, please:
 3. Commit your changes (`git commit -m 'Add feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
