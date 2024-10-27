@@ -33,7 +33,7 @@ This project is a part of a Java Development internship, focusing on building fu
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   [git clone https://github.com/Nikhith-08/CodeAlpha_Student-Grade-Tracker.git]
+   git clone https://github.com/Nikhith-08/CodeAlpha_Student-Grade-Tracker.git
 2. Select options by entering the corresponding number.
 3. For option `1`, you will be prompted to enter a grade.
 4. Choose options `2`, `3`, or `4` to view the average, highest, or lowest grade, respectively.
