@@ -9,7 +9,6 @@ A simple Java application for teachers to manage student grades, calculate avera
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
-- [Contributing](#contributing)
 
 ## Project Overview
 The **Student Grade Tracker** program provides teachers with an easy-to-use tool to manage student grades. Using Java's `ArrayList`, this application stores grades dynamically and allows teachers to:
@@ -63,10 +62,3 @@ This project is a part of a Java Development internship, focusing on building fu
 - **Menu Loop**:
 - The main method provides an interactive menu, allowing teachers to choose actions, view results, or add grades until they decide to exit.
 
-## Contributing
-Contributions are welcome! If you would like to improve this project, please:
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
